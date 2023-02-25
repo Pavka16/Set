@@ -1,4 +1,7 @@
 ## **Set**
+[![Build status](https://ci.appveyor.com/api/projects/status/sdij1c6s0y51hrlq?svg=true)](https://ci.appveyor.com/project/Pavka16/set)
+
+---
 
 ### **Легенда**
 
